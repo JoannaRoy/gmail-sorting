@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Gmail Sorter Options</title>
+    <link rel="stylesheet" href="options.css" />
+  </head>
+  <body class="bg-gray-50 min-h-screen">
+    <div class="container mx-auto max-w-4xl p-6">
+      <div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+        <h1 class="text-3xl font-bold text-gray-900 mb-2">
+          Gmail Sorter Options
+        </h1>
+        <p class="text-gray-600 mb-8">
+          Configure automatic email sorting rules by mapping sender emails to
+          Gmail labels.
+        </p>
+
+        <div id="labelMappingsContainer" class="space-y-4">
+          <!-- Gmail labels and their sender mappings will be loaded here by options.js -->
+        </div>
+      </div>
+    </div>
+
+    <script src="../scripts/options.js" type="module"></script>
+  </body>
+</html>
