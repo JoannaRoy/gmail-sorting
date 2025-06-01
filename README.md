@@ -18,15 +18,13 @@ I also made this because I wanted to learn more about making my own chrome exten
 It's not public (yet? maybe not ever haha. this was mostly for me but lets see)
 
 I go to gmail and I click on the little folder sorter icon:
-<img width="1351" alt="image" src="https://github.com/user-attachments/assets/83a47e71-12e1-464c-9d55-e459eec8b347" />
+<img width="1352" alt="image" src="https://github.com/user-attachments/assets/b86a4b62-b9be-4792-a53b-0d9fa019b25f" />
 
 Then when I want to specify options, I go to the options page:
-<img width="1352" alt="image" src="https://github.com/user-attachments/assets/6dcf9ac0-ab2d-4856-a5da-4abd7b3ae128" />
-
-video demo: https://github.com/user-attachments/assets/e2441a82-3ec0-48e9-bd5d-d6072909af99
+<img width="1351" alt="image" src="https://github.com/user-attachments/assets/61a25687-d793-4af4-addd-554c5f6142e9" />
 
 And when I want to sort, I just click on the clean up inbox option:
-<img width="1349" alt="image" src="https://github.com/user-attachments/assets/9cc5b361-44c6-46a6-92b9-222549d9d323" />
-& it tells me when its done:
-<img width="1348" alt="image" src="https://github.com/user-attachments/assets/5493c993-4c93-4b32-bd65-14c3e472a477" />
-<img width="1352" alt="image" src="https://github.com/user-attachments/assets/12e1e1fe-fde3-4e43-a4b2-fb78c3a330c6" />
+<img width="1349" alt="image" src="https://github.com/user-attachments/assets/947d9cf2-9c13-404e-bce6-a6555d4b90b3" />
+<img width="1352" alt="image" src="https://github.com/user-attachments/assets/43fbe559-82b1-49ed-a1b0-f181a087bad0" />
+
+
